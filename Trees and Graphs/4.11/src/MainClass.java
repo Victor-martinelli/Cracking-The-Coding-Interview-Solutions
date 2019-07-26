@@ -1,3 +1,5 @@
+
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -23,6 +25,10 @@ public class MainClass {
        arbol.insertInOrder(12);
        
        System.out.println("Random Node obtained from tree: "+arbol.getRandomNode().getData());
+       
+       
+       
+       
        
     }
     
